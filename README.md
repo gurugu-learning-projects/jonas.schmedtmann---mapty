@@ -1,3 +1,11 @@
+**MAPTY**
+
+Map your workouts
+
+---
+
+TODOs
+
 1. Ability to edit a workout (from UI)
 2. Ability to delete a workout (from UI)
 3. Ability to delete all workouts (from UI)
